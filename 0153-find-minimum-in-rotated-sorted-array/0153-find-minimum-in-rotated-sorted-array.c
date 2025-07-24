@@ -7,7 +7,7 @@ int findMin(int* nums, int numsSize)
         if(nums[l] < nums[r])
         {
             res = res < nums[l] ? res : nums[l];
-            break;
+            return res;
         }
         int m = l + (r-l)/2;
         res = res < nums[m] ? res : nums[m];
