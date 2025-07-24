@@ -3,11 +3,12 @@ int findMin(int* nums, int numsSize) {
     int* r = nums + numsSize - 1;
 
     while (l < r) {
-        if (*(l + (r - l) / 2) > *r)
-            l = l + (r - l) / 2 + 1;
+        int* m = l + (r - l) / 2;
+        if (*m > *r)
+            l = m + 1;
         else
-            r = l + (r - l) / 2;
+            r = m;
     }
 
-    return *l;
+    return *l; 
 }
