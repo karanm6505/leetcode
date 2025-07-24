@@ -5,26 +5,15 @@ class Solution(object):
         :rtype: List[int]
         """
         n = len(nums)
-        prefix = [1] * n
-        postfix = [1] * n
+        result = [1] * n
 
+        prefix = 1
         for i in range(n):
-            j = n - 1 - i
-            if i == 0:
-                prefix[i] = nums[i]
-                postfix[j] = nums[j]
-            else:
-                prefix[i] = nums[i] * prefix[i - 1]
-                postfix[j] = nums[j] * postfix[j + 1]
+            result[i] = prefix
+            prefix *= nums[i]
+        postfix = 1
+        for i in range(n - 1, -1, -1):
+            result[i] *= postfix
+            postfix *= nums[i]
 
-        print(prefix)
-        print(postfix)
-        result = [1]*n
-        for i in range(n):
-            if i == 0:
-                result[i] = postfix[i+1]
-            elif i == n - 1:
-                result[i] = prefix[i-1]
-            else:
-                result[i] = prefix[i-1]*postfix[i+1]
         return result
