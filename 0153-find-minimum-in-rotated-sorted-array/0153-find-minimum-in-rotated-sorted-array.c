@@ -1,18 +1,14 @@
 int findMin(int* nums, int numsSize) {
-    int l = 0, r = numsSize - 1;
+    int* l = nums;
+    int* r = nums + numsSize - 1;
 
-    while (l < r) 
-    {
-        int mid = l + (r - l) / 2;
-        if (nums[mid] > nums[r]) 
-        {
-            l = mid + 1;
-        } 
-        else 
-        {
-            r = mid;
-        }
+    while (l < r) {
+        int* m = l + (r - l) / 2;
+        if (*m > *r)
+            l = m + 1;
+        else
+            r = m;
     }
 
-    return nums[l];
+    return *l; 
 }
