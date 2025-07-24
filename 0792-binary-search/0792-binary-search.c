@@ -1,17 +1,23 @@
 int search(int* nums, int numsSize, int target) 
 {
-    int l = 0, r = numsSize - 1; 
-    while(l <= r)
+    if (numsSize == 0) return -1;  
+
+    int left = 0, right = numsSize - 1;
+
+    while (left <= right) 
     {
-    int m = l + (r - l) / 2;
-    if(nums[m] == target)
-    {
-        return m;
+        int mid = left + (right - left) / 2;
+
+        if (nums[mid] == target) {
+            return mid;
+        }
+        else if (nums[mid] < target) {
+            left = mid + 1;
+        }
+        else {
+            right = mid - 1;
+        }
     }
-    else if(target > nums[m])
-    {
-        l = m + 1;
-    }
-    else {r=m-1;}}
-    return -1;
+
+    return -1;  
 }
