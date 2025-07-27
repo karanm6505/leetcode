@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/karanm6505/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/karanm6505/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/karanm6505/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karanm6505/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karanm6505/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/karanm6505/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/karanm6505/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/karanm6505/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/karanm6505/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karanm6505/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/karanm6505/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/karanm6505/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/karanm6505/leetcode/tree/master/0125-valid-palindrome) |
