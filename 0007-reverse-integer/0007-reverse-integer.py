@@ -4,12 +4,15 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        s = str(x)
-        if x >= 0:
-            res = int(s[::-1])
-        else:
-            res = -int(s[:0:-1]) 
+        res = 0
+        sign = -1 if x < 0 else 1
+        x = abs(x)
 
-        if res < -2**31 or res > 2**31 - 1:
-            return 0
-        return res
+        while x != 0:
+            digit = x % 10
+            x = x // 10
+            if res > (2**31 - 1) // 10:
+                return 0
+            res = res * 10 + digit
+
+        return sign * res
