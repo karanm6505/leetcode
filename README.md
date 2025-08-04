@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/karanm6505/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/karanm6505/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karanm6505/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/karanm6505/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karanm6505/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanm6505/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/karanm6505/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/karanm6505/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/karanm6505/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/karanm6505/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/karanm6505/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanm6505/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/karanm6505/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
