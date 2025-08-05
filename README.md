@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karanm6505/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karanm6505/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/karanm6505/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karanm6505/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karanm6505/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/karanm6505/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 | [0883-car-fleet](https://github.com/karanm6505/leetcode/tree/master/0883-car-fleet) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/karanm6505/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/karanm6505/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/karanm6505/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/karanm6505/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/karanm6505/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karanm6505/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 ## Hash Function
 |  |
 | ------- |
