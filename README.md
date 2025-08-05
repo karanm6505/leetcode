@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/karanm6505/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karanm6505/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/karanm6505/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/karanm6505/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karanm6505/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/karanm6505/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karanm6505/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/karanm6505/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/karanm6505/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/karanm6505/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/karanm6505/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/karanm6505/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/karanm6505/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/karanm6505/leetcode/tree/master/0217-contains-duplicate) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/karanm6505/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/karanm6505/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/karanm6505/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karanm6505/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
