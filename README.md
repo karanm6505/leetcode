@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/karanm6505/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/karanm6505/leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/karanm6505/leetcode/tree/master/0883-car-fleet) |
+| [0898-transpose-matrix](https://github.com/karanm6505/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/karanm6505/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/karanm6505/leetcode/tree/master/0948-sort-an-array) |
 ## Two Pointers
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/karanm6505/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/karanm6505/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karanm6505/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/karanm6505/leetcode/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/karanm6505/leetcode/tree/master/0898-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
