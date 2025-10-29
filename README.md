@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/karanm6505/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/karanm6505/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karanm6505/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karanm6505/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/karanm6505/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Function
 |  |
 | ------- |
