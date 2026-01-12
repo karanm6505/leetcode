@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/karanm6505/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/karanm6505/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/karanm6505/leetcode/tree/master/0948-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/karanm6505/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/karanm6505/leetcode/tree/master/0898-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/karanm6505/leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
