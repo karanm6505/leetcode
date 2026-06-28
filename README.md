@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/karanm6505/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/karanm6505/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/karanm6505/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
