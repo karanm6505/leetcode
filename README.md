@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/karanm6505/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/karanm6505/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1768-merge-strings-alternately](https://github.com/karanm6505/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/karanm6505/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1768-merge-strings-alternately](https://github.com/karanm6505/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/karanm6505/leetcode/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
 |  |
