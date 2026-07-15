@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/karanm6505/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karanm6505/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/karanm6505/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/karanm6505/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/karanm6505/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/karanm6505/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/karanm6505/leetcode/tree/master/0883-car-fleet) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/karanm6505/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/karanm6505/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/karanm6505/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karanm6505/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
 |  |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/karanm6505/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/karanm6505/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
