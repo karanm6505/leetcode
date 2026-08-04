@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/karanm6505/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1768-merge-strings-alternately](https://github.com/karanm6505/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/karanm6505/leetcode/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/karanm6505/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karanm6505/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karanm6505/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/karanm6505/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karanm6505/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/karanm6505/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/karanm6505/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/karanm6505/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/karanm6505/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/karanm6505/leetcode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/karanm6505/leetcode/tree/master/0901-online-stock-span) |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/karanm6505/leetcode/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
