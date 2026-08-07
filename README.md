@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/karanm6505/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
+| [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/karanm6505/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/karanm6505/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/karanm6505/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karanm6505/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
