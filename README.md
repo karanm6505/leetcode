@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/karanm6505/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karanm6505/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/karanm6505/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/karanm6505/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/karanm6505/leetcode/tree/master/0948-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karanm6505/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karanm6505/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/karanm6505/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/karanm6505/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/karanm6505/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karanm6505/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/karanm6505/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Function
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/karanm6505/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/karanm6505/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/karanm6505/leetcode/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karanm6505/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -422,4 +426,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karanm6505/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karanm6505/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
