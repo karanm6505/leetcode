@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/karanm6505/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/karanm6505/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/karanm6505/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/karanm6505/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/karanm6505/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/karanm6505/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/karanm6505/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/karanm6505/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/karanm6505/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/karanm6505/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/karanm6505/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/karanm6505/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
 | ------- |
