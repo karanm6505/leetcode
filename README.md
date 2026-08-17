@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/karanm6505/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/karanm6505/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/karanm6505/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Sorting
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/karanm6505/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/karanm6505/leetcode/tree/master/0883-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/karanm6505/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/karanm6505/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/karanm6505/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/karanm6505/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karanm6505/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0895-maximum-frequency-stack](https://github.com/karanm6505/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/karanm6505/leetcode/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/karanm6505/leetcode/tree/master/0207-course-schedule) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/karanm6505/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
