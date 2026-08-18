@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanm6505/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/karanm6505/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/karanm6505/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/karanm6505/leetcode/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/karanm6505/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/karanm6505/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/karanm6505/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/karanm6505/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1768-merge-strings-alternately](https://github.com/karanm6505/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/karanm6505/leetcode/tree/master/3110-score-of-a-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karanm6505/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/karanm6505/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karanm6505/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0647-palindromic-substrings](https://github.com/karanm6505/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
