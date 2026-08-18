@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/karanm6505/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/karanm6505/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/karanm6505/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/karanm6505/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karanm6505/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karanm6505/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanm6505/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/karanm6505/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/karanm6505/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/karanm6505/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/karanm6505/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/karanm6505/leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/karanm6505/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/karanm6505/leetcode/tree/master/0217-contains-duplicate) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/karanm6505/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/karanm6505/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/karanm6505/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/karanm6505/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/karanm6505/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/karanm6505/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/karanm6505/leetcode/tree/master/0389-find-the-difference) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karanm6505/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/karanm6505/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karanm6505/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/karanm6505/leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/karanm6505/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/karanm6505/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/karanm6505/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/karanm6505/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Queue
 |  |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/karanm6505/leetcode/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/karanm6505/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
@@ -482,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karanm6505/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/karanm6505/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
