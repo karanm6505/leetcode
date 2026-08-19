@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/karanm6505/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/karanm6505/leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/karanm6505/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/karanm6505/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/karanm6505/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/karanm6505/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/karanm6505/leetcode/tree/master/0047-permutations-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/karanm6505/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/karanm6505/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/karanm6505/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/karanm6505/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/karanm6505/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/karanm6505/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/karanm6505/leetcode/tree/master/0128-longest-consecutive-sequence) |
